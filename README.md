@@ -1,5 +1,6 @@
-## supreme-garbanzo
-# Nothing but a nitty-gritty repo
+# supreme-garbanzo
+
+Nothing but a nitty-gritty repo
 
 Plan:
 -----
