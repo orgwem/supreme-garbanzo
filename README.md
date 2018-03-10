@@ -13,5 +13,4 @@ Open points:
 ------------
 * what IDE?
  - eclipse neon
- - intelliJ 16.3
-* sync from/to DZPB
+ - intelliJ 18.x
